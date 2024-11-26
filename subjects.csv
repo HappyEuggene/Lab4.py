@@ -1,0 +1,6 @@
+id;name;groupID;numLectures;numPracticals;requiresSubgroups;weekType
+S1;Теорія прийняття рішень;TTP-41;2;1;yes;both
+S2;Розробка ПЗ під мобільні;MI-41;3;2;yes;both
+S3;Інтелектуальні системи;TK-41;2;2;no;both
+S4;Теорія прийняття рішень;TTP-42;2;2;yes;both
+S5;Статистичне моделювання;MI-42;1;2;no;both
